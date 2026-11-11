@@ -1,0 +1,80 @@
+{
+ "reference": {
+  "regret_mean": 0.0,
+  "regret_max": 0.0,
+  "regret_median": 0.0,
+  "regret_over10": 0.0,
+  "optimism": 1.0,
+  "optimism_lo": 1.0,
+  "risk_ratio": 1.0,
+  "risk_ratio_max": 1.0,
+  "stations": 3.75,
+  "tied": 0.020161290322580645,
+  "same": 1.0
+ },
+ "independent": {
+  "regret_mean": 0.18819761300536952,
+  "regret_max": 0.6525629082710687,
+  "regret_median": 0.08248313991644418,
+  "regret_over10": 0.375,
+  "optimism": 0.011763816468631269,
+  "optimism_lo": 0.008642084351755027,
+  "risk_ratio": 1.3275316050152757,
+  "risk_ratio_max": 1.9730358329512279,
+  "stations": 3.375,
+  "tied": 0.10080645161290322,
+  "same": 0.625
+ },
+ "mc": {
+  "regret_mean": 0.188980119377122,
+  "regret_max": 3.1530733916302003,
+  "regret_median": 0.03454657162278041,
+  "regret_over10": 0.28125,
+  "optimism": 0.41318127290569967,
+  "optimism_lo": 0.0,
+  "risk_ratio": 1.1127274332558759,
+  "risk_ratio_max": 4.751868961650241,
+  "stations": 3.359375,
+  "tied": 0.04637096774193548,
+  "same": 0.5
+ },
+ "lcv": {
+  "regret_mean": 0.14621982044854603,
+  "regret_max": 3.4773120676631404,
+  "regret_median": 0.0035639979788998355,
+  "regret_over10": 0.125,
+  "optimism": 0.8299614920703173,
+  "optimism_lo": 0.6895672763836913,
+  "risk_ratio": 1.0117479353792105,
+  "risk_ratio_max": 5.09329896742984,
+  "stations": 4.0,
+  "tied": 0.03729838709677419,
+  "same": 0.625
+ },
+ "lis": {
+  "regret_mean": 0.03112032940070343,
+  "regret_max": 0.1496035479500435,
+  "regret_median": 0.015068682041384451,
+  "regret_over10": 0.046875,
+  "optimism": 0.7961159480031836,
+  "optimism_lo": 0.6403016539725772,
+  "risk_ratio": 1.0223182753973845,
+  "risk_ratio_max": 2.519596954304727,
+  "stations": 4.0625,
+  "tied": 0.02066532258064516,
+  "same": 0.4375
+ },
+ "is_cv": {
+  "regret_mean": 0.023835006677247236,
+  "regret_max": 0.3251727087301095,
+  "regret_median": 0.0024153185730581006,
+  "regret_over10": 0.0625,
+  "optimism": 0.9280566157578377,
+  "optimism_lo": 0.7587109697414688,
+  "risk_ratio": 1.00601264233129,
+  "risk_ratio_max": 2.2067975162913127,
+  "stations": 3.921875,
+  "tied": 0.03931451612903225,
+  "same": 0.65625
+ }
+}

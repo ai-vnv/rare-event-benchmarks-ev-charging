@@ -1,0 +1,6 @@
+# Versions used for the paper.  Newer releases are expected to work.
+numpy>=2.0        # 2.5.3
+scipy>=1.11       # 1.18.1, HiGHS through scipy.optimize.milp
+scikit-learn>=1.4 # 1.9.1
+pandas>=2.0       # 3.0.5
+matplotlib>=3.8   # 3.11.2

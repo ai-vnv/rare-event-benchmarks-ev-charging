@@ -1,0 +1,13 @@
+# GADM boundaries may not be redistributed (scripts/fetch_boundaries.py downloads them)
+data/boundaries/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# LaTeX build files
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/build.log
+paper/main.pdf

@@ -1,0 +1,24 @@
+{
+ "reference": {
+  "stations": [
+   "Embong Wungu",
+   "Indrapura",
+   "Tandes"
+  ],
+  "cost": 16446146.54,
+  "risk_per_year": 11.492158398850794,
+  "tied_backup": 0.0,
+  "no_backup": 0.16129032258064516
+ },
+ "independent": {
+  "stations": [
+   "Embong Wungu",
+   "Tandes",
+   "Dukuh Kupang"
+  ],
+  "cost": 17311733.2,
+  "risk_per_year": 22.674440318884027,
+  "tied_backup": 0.4838709677419355,
+  "no_backup": 0.0967741935483871
+ }
+}
